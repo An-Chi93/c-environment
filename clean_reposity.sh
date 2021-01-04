@@ -1,3 +1,3 @@
 #! /usr/bin/bash
 
-rm a.out
+rm enumerate_numbers
