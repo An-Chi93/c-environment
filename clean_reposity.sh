@@ -1,3 +1,3 @@
 #! /usr/bin/bash
 
-rm enumerate_numbers
+rm enumerate_number
