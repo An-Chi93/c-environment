@@ -1,4 +1,4 @@
 #! /usr/bin/bash
 
-gcc main.c -o enumerate_number
+gcc -o enumerate_number main.c
 chmod a+x enumerate_number
